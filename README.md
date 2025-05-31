@@ -10,3 +10,9 @@
 ## 3. Hoisting in JavaScript
 
 ## 4. How Functions Work in JS & Variable Environment
+
+## 5. window & this keyword
+
+## 6. undefined vs not defined
+
+## 7. The Scope Chain, Scope & Lexical Environment
