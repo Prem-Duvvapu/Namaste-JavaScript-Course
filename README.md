@@ -16,3 +16,5 @@
 ## 6. undefined vs not defined
 
 ## 7. The Scope Chain, Scope & Lexical Environment
+
+## 8. let & const in JS, Temporal Dead Zone
