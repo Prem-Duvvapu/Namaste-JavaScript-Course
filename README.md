@@ -20,3 +20,5 @@
 ## 8. [let & const in JS, Temporal Dead Zone](let-and-const-demo.js)
 
 ## 9. [Block Scope & Shadowing in JS](block-scope-demo.js)
+
+## 10. [Closures in JS](closures-demo.js)
