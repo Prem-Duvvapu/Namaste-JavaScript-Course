@@ -22,3 +22,5 @@
 ## 9. [Block Scope & Shadowing in JS](block-scope-demo.js)
 
 ## 10. [Closures in JS](closures-demo.js)
+
+## 11. [setTimeout + Closures](setTimeout-closures-demo.js)

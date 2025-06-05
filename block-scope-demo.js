@@ -12,4 +12,4 @@ var a=100;
 
 console.log(a);
 // console.log(b); //gives ReferenceError: b is not defined
-// console.log(c); //gives ReferenceError: b is not defined
+// console.log(c); //gives ReferenceError: c is not defined
