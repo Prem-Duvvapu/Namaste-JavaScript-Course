@@ -24,3 +24,5 @@
 ## 10. [Closures in JS](closures-demo.js)
 
 ## 11. [setTimeout + Closures](setTimeout-closures-demo.js)
+
+## 12. [First Class Functions ft. Anonymous Functions](first-class-functions-demo.js)
