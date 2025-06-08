@@ -28,3 +28,5 @@
 ## 12. [First Class Functions ft. Anonymous Functions](first-class-functions-demo.js)
 
 ## 13. [Callback Functions in JS ft. Event Listeners](callback-functions-demo.js)
+
+## 14. [Asynchronous JavaScript & Event Loop](event-loop-demo.js)
