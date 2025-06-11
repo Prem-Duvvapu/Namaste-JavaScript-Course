@@ -34,3 +34,5 @@
 ## 15. [JS Engine Exposed - Google V8 Architecture](js-engine-demo.js)
 
 ## 16. [Trust Issues with setTimeout()](setTimeout-demo.js)
+
+## 17. [Higher-Order-Functions ft. Functional Programming](higher-order-funcs-demo.js)
