@@ -42,3 +42,11 @@
 ## 19. [Callback Hell](callback-hell-demo.js)
 
 ## 20. [Promises](promises-demo.js)
+
+## 21. [Creating a Promise, Chaining & Error Handling](promise-chaining-demo.js)
+
+## 22. [async await](async-await-demo.js)
+
+## 23. [Promise APIs + Interview Questions](promise-apis-demo.js)
+
+## 24. [this keyword in JavaScript](this-keyword-demo.js)
